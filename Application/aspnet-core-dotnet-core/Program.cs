@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace aspnet_core_dotnet_core
 {
     public class Program
-    {
+    {//asdasdasd
         public static void Main(string[] args)
         {
             CreateWebHostBuilder(args).Build().Run();
