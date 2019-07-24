@@ -8,7 +8,7 @@ using System.Data.SqlClient;
 using System.Diagnostics;
 
 namespace aspnet_core_dotnet_core.Pages
-{
+{// sample change
     public class AboutModel : PageModel
     {
         public string sqlCS;
