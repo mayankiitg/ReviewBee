@@ -9,7 +9,7 @@ namespace aspnet_core_dotnet_core.UnitTests
     {
         [TestMethod]
         public void IndexPageTest()
-        {
+        {//asdasd
             AppConfig appconfig = new AppConfig(null);
             IndexModel model = new IndexModel(appconfig);
             Assert.AreEqual("Index", actual: model.DoTest());
